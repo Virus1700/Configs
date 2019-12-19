@@ -155,7 +155,7 @@ FastBreak BreakDamage 1.0
 FastBreak toggle false
 FastClimb Mode AAC
 FastClimb NormalSpeed 0.23
-FastClimb toggle true
+FastClimb toggle false
 FastPlace Speed 0
 FastPlace toggle false
 FastStairs Mode NCP
