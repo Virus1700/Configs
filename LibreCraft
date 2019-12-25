@@ -126,6 +126,7 @@ ChestStealer AutoCloseMinDelay 0
 ChestStealer CloseOnFull true
 ChestStealer ChestTitle false
 ChestStealer toggle false
+ChestStealer bind NONE
 CivBreak Air-Reset true
 CivBreak Range-Reset true
 CivBreak Rotations true
